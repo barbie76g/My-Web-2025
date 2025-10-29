@@ -1,0 +1,41 @@
+body{
+
+margin: auto;
+padding: auto;
+background-color: #e3e8f2;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+;}
+
+
+h3{
+    
+text-align: center;
+color: blueviolet;
+
+}
+
+
+p {
+    text-align: center;
+    color: brown;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;}
+
+img{display: inline;
+align-items: center;
+margin: auto;
+padding: auto;
+border-radius: 100%;
+height: 100px;
+width: 100px;
+border: 2px solid black;
+display: block;
+}
+
+section{
+box-sizing: border-box;
+ /* margin-bottom: 30px; */
+padding-top: 40px;
+border-color: rgb(242, 7, 7);}
